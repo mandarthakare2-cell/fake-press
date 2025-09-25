@@ -1,0 +1,9 @@
+
+flask
+flask-cors
+pillow
+numpy
+opencv-python
+pytesseract
+tensorflow>=2.10  # optional: only needed if you want to load/train the CNN model
+easyocr  # optional but recommended as a fallback

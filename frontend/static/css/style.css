@@ -1,0 +1,4 @@
+
+body { font-family: Arial, sans-serif; display:flex; justify-content:center; align-items:center; height:100vh; background:#f3f4f6; margin:0; }
+.card { background:white; padding:20px; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); width:420px; }
+#resultBox { white-space: pre-wrap; background:#f9fafb; padding:10px; border-radius:6px; margin-top:10px; max-height:300px; overflow:auto; }
